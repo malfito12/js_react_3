@@ -1,0 +1,161 @@
+{
+  "especialidades": [
+    {
+      "id": 1,
+      "specialityName": "Especialidad en react",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "specialityName": "Especialidad en JavaScript",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "specialityName": "Especialidad en GO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "specialityName": "Especialidad en Angular",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "specialityName": "Especialidad en phyton",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU"
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU",
+      "specialityName": "Postman2 desde cero"
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU",
+      "specialityName": "Uno de cero"
+    },
+    {
+      "id": "8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU",
+      "specialityName": "llalalal"
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "courseName": "React desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_9f1v-wzTQf95jhY6f9TWj3Fbm18L213oug&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "courseName": "JavaScript desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ_tDdpds03UklTuAMAzXMOeJ7ijITVp1unA&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "courseName": "GIT desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Eg_x-LDE-CO4smvabifoqTOq6Sd0oZY_cQ&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "courseName": "Phyton desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuJzvaaC5w9hSZoGjwDsEdVIv5mbjRgIza0w&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "courseName": "Android desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQExAdzfDsfFdPwV0Umm_5tRvZm3S4ph_Kinw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "courseName": "Postman desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_9f1v-wzTQf95jhY6f9TWj3Fbm18L213oug&usqp=CAU"
+    }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "teacherName": "Alex Maraza Campero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkAOo36r6i2GvZ11oAgAM9pPQG2IHTF0_ARA&usqp=CAU",
+      "age": 26
+    },
+    {
+      "id": 2,
+      "teacherName": "Maria Belez Ruiz",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIHQ3fic6QC1q9ENi5fXwmyj4Fo8U20R_eeQ&usqp=CAU",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "teacherName": "Juan Carlos Orellana",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3NsRY3YETUjqXtHwEHRJiS84oEiff78eMag&usqp=CAU",
+      "age": 34
+    },
+    {
+      "id": 4,
+      "teacherName": "Pedro Medina Quinteros",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSadGmbfcDDgnZ8JCPSY0xXQssPs2Zft40jnQ&usqp=CAU",
+      "age": 54
+    },
+    {
+      "id": 5,
+      "teacherName": "Layra Yisel Mendez",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdAVlS7YucmBKchFatQ106X5piM8guyvqcPw&usqp=CAU",
+      "age": 23
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "author": "cosme fulanito",
+      "title": "Ayuda con CSS grid urgente",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eius eligendi laudantium consequuntur quo delectus nihil nesciunt, fugiat necessitatibus blanditiis at porro quam beatae ducimus dolor est aliquid unde aperiam."
+    },
+    {
+      "id": 2,
+      "author": "blanca nueves",
+      "title": "Ayuda con JS grid urgente",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eius eligendi laudantium consequuntur quo delectus nihil nesciunt, fugiat necessitatibus blanditiis at porro quam beatae ducimus dolor est aliquid unde aperiam."
+    },
+    {
+      "id": 3,
+      "author": "Emeregildo",
+      "title": "Ayuda con XXX grid urgente",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eius eligendi laudantium consequuntur quo delectus nihil nesciunt, fugiat necessitatibus blanditiis at porro quam beatae ducimus dolor est aliquid unde aperiam."
+    },
+    {
+      "id": 4,
+      "author": "me la pelan",
+      "title": "Ayuda con tulu grid urgente",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eius eligendi laudantium consequuntur quo delectus nihil nesciunt, fugiat necessitatibus blanditiis at porro quam beatae ducimus dolor est aliquid unde aperiam."
+    },
+    {
+      "id": 5,
+      "author": "y vos que miras",
+      "title": "Ayuda con (yo no necesito ayuda) grid urgente",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eius eligendi laudantium consequuntur quo delectus nihil nesciunt, fugiat necessitatibus blanditiis at porro quam beatae ducimus dolor est aliquid unde aperiam."
+    }
+  ],
+  "users": [
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "user1@gmail.com",
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "user1@gmail.com",
+      "id": 1
+    }
+  ]
+}
